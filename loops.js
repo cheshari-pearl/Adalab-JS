@@ -41,3 +41,9 @@ const kickBall = (leg) => {
     } while(leg)
 };
 kickBall(true)
+
+//Practice
+
+const webpages = [
+    {homepage:0},{}
+]
